@@ -13,7 +13,23 @@ Business Tycoon is a Python simulation game where you manage a small business. H
 
 ## Screenshots
 
-Screenshots demonstrating key parts of the application are stored in the `readmeImage/` folder (e.g., registration screen, main UI, and business view).
+Below are some screenshots demonstrating key parts of the application. The screenshots are stored in a folder named `readmeImage`.
+
+1. **Registration Screen**  
+   ![Registration Screen](readmeImage/registration.png)  
+   *This screenshot shows the prompt where the user enters their business name upon startup.*
+
+2. **Main User Interface**  
+   ![Main UI](readmeImage/ui.png)  
+   *This screenshot displays the main interface with status, actions, and the shop area where workers move.*
+
+3. **Business View**  
+   ![Business View](readmeImage/business.png)  
+   *This screenshot provides a closer look at the shop area, showing moving worker sprites and decorative boxes.*
+
+> **Note:**  
+> Replace `registration.png`, `ui.png`, and `business.png` with your actual screenshot file names located in the `readmeImage` folder.
+
 
 ## Project Structure
 
